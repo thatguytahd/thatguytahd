@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there my name is Todd and welcome to my GitHub Profile :)
+
+I am a support analyst by day and an aspiring JavaScript developer by night. 
+
+I am currently a student at [CodeLouisville](https://www.codelouisville.org/) and I have completed the intro class for Front End Web Development and currently attending their JavaScript class where we go more indepth with learning native JavaScript and learning some basics about Node.
+
+My goal is to one day transition my career into software development and document/display any projects that I work on here in my GitHub.
 
 <!--
 **thatguytahd/thatguytahd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
