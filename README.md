@@ -8,7 +8,7 @@ My goal is to one day transition my career into software development and documen
 
 #### Links
 
-(LinkedIn)[https://www.linkedin.com/in/todd-baker-2a683636/]
+[LinkedIn](https://www.linkedin.com/in/todd-baker-2a683636/)
 
 <!--
 **thatguytahd/thatguytahd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
